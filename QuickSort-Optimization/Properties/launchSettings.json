@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QuickSort-Optimization": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
